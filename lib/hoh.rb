@@ -31,6 +31,21 @@
 # }
 
 def naming_system
+  hoh = {
+    :kingdom=>{
+      :Phylum=>{
+        :Class=>{
+          :Order=>{
+            :Family=>{
+              :Genus=>{
+                :Species=>{}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
   # Remember:
   #  Kingdom
   #  Phylum
