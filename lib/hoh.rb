@@ -32,7 +32,7 @@
 
 def naming_system
   hoh = {
-    PORTION_1
+ 
   }
   # Remember:
   #  Kingdom
