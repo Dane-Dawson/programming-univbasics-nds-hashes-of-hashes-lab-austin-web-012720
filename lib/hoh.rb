@@ -31,12 +31,12 @@
 # }
 
 def naming_system
-  hoh = [
+  hoh = {
     PORTION_1,
     PORTION_2,
     PORTION_3,
     PORTION_4,
-  ]
+  }
   # Remember:
   #  Kingdom
   #  Phylum
